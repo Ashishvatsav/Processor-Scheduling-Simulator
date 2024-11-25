@@ -34,4 +34,4 @@ Applications:
 	•	Analyzing and comparing scheduling algorithms.
 	•	Demonstrating real-world scenarios in CPU scheduling and process management.
 
-Would you like help designing or coding such a simulator?
+
