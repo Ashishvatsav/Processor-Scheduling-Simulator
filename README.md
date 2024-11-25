@@ -1,6 +1,6 @@
 # Processor-Scheduling-Simulator
-Simulator used to schedule multiple processors.
-A Process Scheduling Simulator is a tool designed to simulate and visualize how a CPU schedules processes using various scheduling algorithms. It provides a dynamic environment to demonstrate the functionality, efficiency, and differences of algorithms, making it a useful educational and analytical tool for understanding process management in operating systems.
+The simulator is used to schedule multiple processors.
+A Process Scheduling Simulator is a tool designed to simulate and visualize how a CPU schedules processes using various scheduling algorithms. It provides a dynamic environment to demonstrate algorithms' functionality, efficiency, and differences, making it a useful educational and analytical tool for understanding process management in operating systems.
 
 Key Features of a Process Scheduling Simulator:
 
